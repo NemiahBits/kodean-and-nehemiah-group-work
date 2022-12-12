@@ -2,7 +2,8 @@
     "name": "Kodean and Nehemiah group work",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Bits": "github:nemiahbits/bits#master"
     },
     "files": [
         "main.blocks",
